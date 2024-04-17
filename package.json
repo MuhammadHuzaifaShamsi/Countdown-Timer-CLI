@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "name": "mh-countdown-timer-cli",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Huzaifa",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadHuzaifaShamsi/Countdown-Timer-CLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MuhammadHuzaifaShamsi/Countdown-Timer-CLI/issues"
+  },
+  "homepage": "https://github.com/MuhammadHuzaifaShamsi/Countdown-Timer-CLI#readme",
+  "description": ""
+}
